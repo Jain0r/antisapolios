@@ -1,0 +1,10 @@
+C:\Users\sistemas10\source\repos\antisapolios2\antisapolios2\bin\Debug\antisapolios2.exe.config
+C:\Users\sistemas10\source\repos\antisapolios2\antisapolios2\bin\Debug\antisapolios2.exe
+C:\Users\sistemas10\source\repos\antisapolios2\antisapolios2\bin\Debug\antisapolios2.pdb
+C:\Users\sistemas10\source\repos\antisapolios2\antisapolios2\obj\Debug\antisapolios2.csproj.AssemblyReference.cache
+C:\Users\sistemas10\source\repos\antisapolios2\antisapolios2\obj\Debug\antisapolios2.Properties.Resources.resources
+C:\Users\sistemas10\source\repos\antisapolios2\antisapolios2\obj\Debug\antisapolios2.csproj.GenerateResource.cache
+C:\Users\sistemas10\source\repos\antisapolios2\antisapolios2\obj\Debug\antisapolios2.csproj.CoreCompileInputs.cache
+C:\Users\sistemas10\source\repos\antisapolios2\antisapolios2\obj\Debug\antisapolios2.exe
+C:\Users\sistemas10\source\repos\antisapolios2\antisapolios2\obj\Debug\antisapolios2.pdb
+C:\Users\sistemas10\source\repos\antisapolios2\antisapolios2\obj\Debug\antisapolios2.Form1.resources
